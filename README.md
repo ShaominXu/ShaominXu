@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Principles and Techniques of Data Science**
 
-- 👨‍💻 All of my projects are available at [github.com/ShaominXu](github.com/ShaominXu)
+- 👨‍💻 All of my projects are available at [ShaominXu](ShaominXu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
