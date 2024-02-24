@@ -7,10 +7,9 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Principles and Techniques of Data Science**
 
-- 👨‍💻 All of my projects are available at [github.com/ShaominXu](github.com/ShaominXu)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/shaominxu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shaominxu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sx2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sx2311" height="30" width="40" /></a>
 </p>
 
