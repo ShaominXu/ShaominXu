@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaomin Xu</h1>
-<h3 align="center">Currently, I am dedicated to advancing my education through graduate studies in Computer Engineering, with a focus on algorithms and artificial intelligence.</h3>
+<h3 align="center">Presently, I am pursuing my graduate studies in Computer Engineering, specializing in algorithms and artificial intelligence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaominxu&label=Profile%20views&color=0e75b6&style=flat" alt="shaominxu" /> </p>
 
