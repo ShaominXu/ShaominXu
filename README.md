@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hi，I‘m Shaomin Xu
+# Hi🍀I’m Shaomin Xu
 
 🤖 Embodied AI Software Development Engineer  
 🎓 MS Computer Engineering, New York University  
