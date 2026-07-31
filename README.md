@@ -9,6 +9,9 @@
   <a href="https://space.bilibili.com/107156380?spm_id_from=333.1007.0.0" target="_blank">
     <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
+  <a href="https://creator.xiaohongshu.com/new/home?source=official" target="_blank">
+    <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu" />
+  </a>
 </p>
 
 🤖 Embodied AI Software Development Engineer  
