@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hi👋 I’m Shaomin
+# Hi👋 I’m Linkrub
 
 <p align="left">
   <a href="https://www.zhihu.com/people/linkrub" target="_blank">
